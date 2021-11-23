@@ -1,0 +1,10 @@
+nav {
+    background-color: #212529;
+    width: 100vw;
+    padding-top: 1rem;
+    padding-bottom: 1rem
+}
+
+.header {
+    height: 40px;
+}
